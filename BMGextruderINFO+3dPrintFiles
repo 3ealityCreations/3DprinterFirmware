@@ -13,4 +13,4 @@ In order to set the new steps per unit from 96 to 415 (412 bmg clone) make this 
 *X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]] */#define DEFAULT_AXIS_STEPS_PER_UNIT{ 80, 80, 400, 415}
 
 After customizing your firmware with the required change, you can just flash it into the printer.
-3D PRINT BODY KITS HERE: https://www.thingiverse.com/thing:4886920 , https://www.thingiverse.com/thing:4785351
+3D PRINT BODY KITS HERE: https://www.thingiverse.com/thing:5085165, https://www.thingiverse.com/thing:4886920 , https://www.thingiverse.com/thing:4785351
